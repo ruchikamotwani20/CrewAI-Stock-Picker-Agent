@@ -484,18 +484,8 @@ This project is intended for educational and experimental purposes only and shou
 
 ---
 
-# Author
+# Connect
 
-Aditya Ailsinghani
-
-M.S. Data Science, Analytics, and Engineering  
-Arizona State University
-
-Focused on:
-- Agentic AI Systems
-- Machine Learning
-- Data Science & Analytics
-- Multi-Agent Workflows
-- Data Engineering
-- AI Automation
-- LLM Systems
+LinkedIn: https://www.linkedin.com/in/ruchikamotwani20/
+Portfolio: https://ruchika-motwani.notion.site/portfolio
+Email: ruchikamotwani20@utexas.edu
