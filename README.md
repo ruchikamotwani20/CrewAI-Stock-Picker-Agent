@@ -486,6 +486,6 @@ This project is intended for educational and experimental purposes only and shou
 
 # Connect
 
-LinkedIn: https://www.linkedin.com/in/ruchikamotwani20/
-Portfolio: https://ruchika-motwani.notion.site/portfolio
-Email: ruchikamotwani20@utexas.edu
+## LinkedIn: https://www.linkedin.com/in/ruchikamotwani20/
+## Portfolio: https://ruchika-motwani.notion.site/portfolio
+## Email: ruchikamotwani20@utexas.edu
